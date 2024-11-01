@@ -40,7 +40,7 @@ Fashion MNIST consists of 60,000 training images and 10,000 test images, each wi
 - Define the Model: The notebook provides a basic convolutional neural network (CNN) for image 
   classification, but you can customize it.
 
-= Train the Model: Run the training cell to start the training process. Adjust the hyperparameters (like epochs, batch size, and learning rate) as needed.
+- Train the Model: Run the training cell to start the training process. Adjust the hyperparameters (like epochs, batch size, and learning rate) as needed.
 
 
  Example training code
@@ -58,6 +58,7 @@ print("Test Accuracy: ", test_accuracy)
 
 ### Project Structure
 FashionMNIST-DataSet/
+
 ├── FashionMNIST_Training.ipynb  
 ├── README.md                    
 ├── requirements.txt             
