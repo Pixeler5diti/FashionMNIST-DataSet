@@ -58,10 +58,10 @@ print("Test Accuracy: ", test_accuracy)
 
 ### Project Structure
 FashionMNIST-DataSet/
-├── FashionMNIST_Training.ipynb  # Notebook for model training
-├── README.md                    # Project README file
-├── requirements.txt             # Dependencies for the project
-└── fashion_mnist_model.h5       # Saved model after training (if committed)
+├── FashionMNIST_Training.ipynb  
+├── README.md                    
+├── requirements.txt             
+└── fashion_mnist_model.h5      
 
 ### Acknowledgments
 Zalando Research for providing the Fashion MNIST dataset.
