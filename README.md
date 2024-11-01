@@ -48,11 +48,14 @@ model.fit(train_images, train_labels, epochs=10, validation_data=(test_images, t
 
 ### Evaluating the Model
 Once the model is trained, evaluate its performance on the test set to check the accuracy and loss.
+
 Load the model:
+
 from tensorflow.keras.models import load_model
 model = load_model('fashion_mnist_model.h5')
 
 Evaluate:
+
 test_loss, test_accuracy = model.evaluate(test_images, test_labels)
 print("Test Accuracy: ", test_accuracy)
 
