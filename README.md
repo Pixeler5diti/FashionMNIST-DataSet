@@ -1,6 +1,8 @@
 # FashionMNIST Model Training
 This repository contains code for training a deep learning model on the [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist) dataset. Fashion MNIST is a dataset of grayscale images of 10 different clothing types, designed to serve as a drop-in replacement for the classic MNIST dataset.
 
+**You can fidn the link to the google colab file here: [Link](https://colab.research.google.com/drive/1yNnOU1blFkssWZ-wcSdXxwSbmcaxF2Kx#scrollTo=2kXO0Gcc0YG4 )
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
